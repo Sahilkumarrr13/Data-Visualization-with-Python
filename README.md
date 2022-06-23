@@ -12,4 +12,4 @@ In this course, you will create an application that reads data from CSV files. Y
 ![image](https://user-images.githubusercontent.com/78020696/174789304-25f89e95-52ce-45be-82de-c0a2e5c1e742.png)
 
 Copyright to Coursera Project Netwok/Data Visualization with Python
-Link : ![Data Visualization with Python] (https://www.coursera.org/projects/data-visualization-with-python)
+Link : [**Data Visualization with Python**] (https://www.coursera.org/projects/data-visualization-with-python)
